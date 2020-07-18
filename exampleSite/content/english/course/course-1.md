@@ -1,11 +1,11 @@
 ---
 title: Operating Systems
 date: 2019-07-06T15:27:17.000+06:00
-bg_image: images/backgrounds/page-title.jpg
+bg_image: "/images/ima_1024.jpg"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/courses/course-1.jpg
+image: "/images/ima_1024.jpg"
 category: Computing
 teacher: Hong-Va Leong
 duration: 2nd semester
