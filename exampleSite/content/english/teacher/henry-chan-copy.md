@@ -6,7 +6,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 draft = true
 image = "/images/logo_1200x672_with-bg.jpg"
 interest = ["Internet of Objects", "Mobile Development", "Cloud Computing"]
-title = "Henry CHAN-(copy)"
+title = "Henry CHAN2"
 [[contact]]
 icon = "ti-email"
 link = "mailto:henrychan@email.com"
