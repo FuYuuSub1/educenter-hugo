@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 email: email2@example.org
-image: "/images/research/research-2.jpg"
+image: "/images/logo_1200x672_with-bg.jpg"
 social:
 - icon: ti-facebook
   link: "#"
