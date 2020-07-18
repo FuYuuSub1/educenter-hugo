@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "Comp1901@polyu.edu.hk"
 google_analitycs_id = ""
-logo = "/images/complogo.png"
+logo = "complogo.png"
 mobile = "+852 12345678"
 top_header = true
 [params.map]
