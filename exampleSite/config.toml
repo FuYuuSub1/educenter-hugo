@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = "PolyU Computing"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "1901theme"
 title = "COMP1901 demo"
 [Languages.en]
 contentDir = "content/english"
