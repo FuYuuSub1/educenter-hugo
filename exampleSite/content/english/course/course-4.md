@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/courses/course-4.jpg
+image: "/images/https-specials-images-forbesimg-com-dam-imageserve-1128466997-960x0-jpg-fit-scale.jpeg"
 category: Programming
 teacher: Devid Luis
 duration: 06 Month
